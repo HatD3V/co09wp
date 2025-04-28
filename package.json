@@ -1,0 +1,23 @@
+{
+  "name": "class-of-09-web-port",
+  "version": "1.0.0",
+  "main": "renpy-pre.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HatD3V/class-of-09-web-port.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HatD3V/class-of-09-web-port/issues"
+  },
+  "homepage": "https://github.com/HatD3V/class-of-09-web-port#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
