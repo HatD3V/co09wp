@@ -6,7 +6,6 @@ YES ITS AN ACTUAL DAMN WEBPORT
 Cant Take Us Down Schools!
 
 # Domains
-
 [Google Sites Domain (Use if Your Blocked on the Github Domain]([https://example.com](https://sites.google.com/view/co09wp?usp=sharing))
 [Github Domain](https://hatd3v.github.io/co09wp/)
 
